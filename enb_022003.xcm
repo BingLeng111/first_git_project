@@ -24,7 +24,7 @@
          <siteName><unset/></siteName>
          <templateVersion>LR16.2.2-CL2_20171801_vrz-d_ga-gpt</templateVersion>
          <userCategory><unset/></userCategory>
-         <userSpecificInfo><unset/></userSpecificInfo>
+         <userSpecificInfo>testing - bing</userSpecificInfo>
       </attributes>
       <CpriRadioEquipment id="0">
          <attributes>
